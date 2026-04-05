@@ -1,0 +1,9 @@
+=== PerfLogger started 2026-04-05T08:50:32.710571512 ===
+Target FPS: 60  FPS warn threshold: 48  Frame warn: 16 ms
+---
+[08:50:36.705] FPS_DROP fps=38 (dip#1) | JITTER worst=507ms |  [heap=9MB +10164KB/s worst=507ms upd=36us draw=154us show=8us plat=12 coins=0/7 px=162,156 keys=[R] kps=8]
+[08:50:37.705] FPS_RECOVER after 1s |  [heap=9MB +0KB/s worst=2ms upd=34us draw=188us show=15us plat=12 coins=1/7 px=336,156 keys=[R] kps=0]
+[08:50:44.705] GC count+1 time+3ms |  [heap=4MB +-8040KB/s worst=4ms upd=9us draw=151us show=8us plat=12 coins=5/7 px=1289,83 keys=[R] kps=3]
+[08:51:01.720] JITTER worst=29ms |  [heap=10MB +0KB/s worst=29ms upd=4us draw=160us show=25us plat=12 coins=6/7 px=5825,492 keys=[R] kps=3]
+[08:51:05.723] SUMMARY fps=59 heap=12MB heap_growth=0KB/s worst=0ms gcTotal=1x/3ms upd=26us draw=127us show=26us keys=[R] kps=2
+[08:51:18.730] GC count+1 time+4ms |  [heap=6MB +-9900KB/s worst=4ms upd=17us draw=144us show=17us plat=12 coins=6/7 px=2422,387 keys=[R] kps=1]

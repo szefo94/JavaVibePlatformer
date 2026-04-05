@@ -1,0 +1,5 @@
+target/
+perf.log
+.claude/
+*.class
+ideas.txt

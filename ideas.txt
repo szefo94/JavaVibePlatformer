@@ -1,4 +1,0 @@
-make camera follow player faster,
-increase max frames to 60 (check if was set right)
-
-cannot tell if fps metter really displays actual frames
